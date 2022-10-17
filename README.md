@@ -20,3 +20,14 @@ escena de Unity donde se realliza cambio de escala
 
 >Aspectos a incluir en el entregable:
 Entregar el proyecto completo, con los scripts listos y la escena funcionando.
+
+
+
+<p align="center">
+  <p align="center">    
+    <img src="./public/Demo.gif" alt="timedShots" >    
+  </p>
+  <p align="center">
+       DEMO
+  </p>
+</p>
